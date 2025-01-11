@@ -1,11 +1,10 @@
 const translations = require('./translations.json');
 
 module.exports = function(eleventyConfig) {
-  eleventyConfig.addGlobalData("translations", translations);
-
   return {
     dir: {
       input: "src",
+      includes: "lang",
       output: "_site"
     }
   };
