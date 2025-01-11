@@ -1,5 +1,5 @@
 {
-  "name": "lang-website",
+  "name": "demo-work-1.1",
   "version": "1.0.0",
   "scripts": {
     "start": "eleventy --serve",
