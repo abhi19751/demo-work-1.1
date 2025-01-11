@@ -1,0 +1,28 @@
+{
+  "en": {
+    "title": "Welcome to My Website",
+    "description": "A simple multi-language website.",
+    "welcome": "Welcome to Our Website",
+    "content": "This is the English version.",
+    "buttons": {
+      "click_me": "Click Me",
+      "submit": "Submit",
+      "learn_more": "Learn More",
+      "shop_now": "Shop Now",
+      "view_details": "View Details"
+    }
+  },
+  "fr": {
+    "title": "Bienvenue sur mon site Web",
+    "description": "Un site Web multilingue simple.",
+    "welcome": "Bienvenue sur notre site Web",
+    "content": "Ceci est la version française.",
+    "buttons": {
+      "click_me": "Cliquez Moi",
+      "submit": "Soumettre",
+      "learn_more": "En savoir plus",
+      "shop_now": "Acheter maintenant",
+      "view_details": "Voir les détails"
+    }
+  }
+}
